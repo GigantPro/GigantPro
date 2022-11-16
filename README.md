@@ -1,4 +1,4 @@
-[![Header](https://github.com/GigantPro/GigantPro/blob/main/resorses/back.gif)](https://www.xiver.ru/)
+[![Header](https://github.com/GigantPro/GigantPro/blob/main/resorses/back.jpg)](https://www.xiver.ru/)
 
 ### Languages and Tools:
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
