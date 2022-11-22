@@ -1,4 +1,4 @@
-[![Header](https://github.com/GigantPro/GigantPro/blob/main/resorses/back.jpg)](https://www.xiver.ru/)
+[![Header](https://github.com/GigantPro/GigantPro/blob/main/resorses/back.jpg)](https://xiver.ru/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=900&size=28&duration=10000&pause=5000&color=9C038A9A&width=435&lines=About+me)](https://xiver.ru/)
 
