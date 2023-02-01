@@ -1,16 +1,50 @@
+## Hello, <a href="https://github.com/GigantPro"> Gigant Pro</a> is here!
+### My contacts
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/GigantPro)
+[![VK](https://img.shields.io/badge/-VK-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/gigantpro2000)
+[![Discord](https://img.shields.io/badge/-Discord-747EF7?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/561181047317069827)
+[![Telegram](https://img.shields.io/badge/-Telegram-lightblue?style=flat&logo=telegram&logoColor=white)](https://t.me/[SegFault0xFF](https://t.me/gigantpro2000))
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gigantpro2000@gmail.com)
+[![CodeWars](https://img.shields.io/badge/-CodeWars-B1361E?style=flat&logo=Codewars&logoColor=white)](https://www.codewars.com/users/GigantPro2000)
+[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=flat&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCehHN9RIi3RLFhuHCdj2x5A)
+<img align="right" alt="ViewCount" src="https://views.whatilearened.today/views/github/gigantpro/gigantpro.svg"/>
+
 [![Header](https://github.com/GigantPro/GigantPro/blob/main/resorses/back.jpg)](https://xiver.ru/)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=900&size=28&duration=10000&pause=5000&color=9C038A9A&width=435&lines=About+me)](https://xiver.ru/)
+### Skills
 
-Hello! I am 16 years old. I am a student of the 10th information technology class of school 1502, Moscow. I am completely passionate about programming. Programming - study, work, hobby. I can play the guitar and piano :) I hope that this information was useful to you) Good luck!
+![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-111?style=for-the-badge&logo=Python&logoColor=blue)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
+---
 
-##
-### Languages and Tools:
-![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+### Operating Systems
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![SQlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Socials:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/gigantpro2000)
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCehHN9RIi3RLFhuHCdj2x5A)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/gigantpro2000)
+---
+
+### Learning
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+---
+
+### IDE
+![VSCode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![VisualStudio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### Hardware
+![RADEON](https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![RYZEN](https://img.shields.io/badge/AMD-Ryzen_7_3700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
