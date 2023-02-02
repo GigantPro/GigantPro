@@ -6,10 +6,11 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-lightblue?style=flat&logo=telegram&logoColor=white)](https://t.me/gigantpro2000)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gigantpro2000@gmail.com)
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=flat&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCehHN9RIi3RLFhuHCdj2x5A)
-[![codewars](https://www.codewars.com/users/GigantPro2000/badges/micro)](https://www.codewars.com/users/GigantPro2000) 
 <img align="right" alt="ViewCount" src="https://views.whatilearened.today/views/github/gigantpro/gigantpro.svg"/>
 
 [![Header](https://github.com/GigantPro/GigantPro/blob/main/resorses/back.jpg)](https://xiver.ru/)
+--
+[![codewars](https://www.codewars.com/users/GigantPro2000/badges/large)](https://www.codewars.com/users/GigantPro2000) 
 
 ### Skills
 
@@ -49,6 +50,7 @@
 ### Hardware
 ![RADEON](https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![RYZEN](https://img.shields.io/badge/AMD-Ryzen_7_3700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![LENOVO G700](https://img.shields.io/badge/Windows-lenovo_g700-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
