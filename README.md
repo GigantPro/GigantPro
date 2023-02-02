@@ -7,6 +7,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gigantpro2000@gmail.com)
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=flat&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCehHN9RIi3RLFhuHCdj2x5A)
 <img align="right" alt="ViewCount" src="https://views.whatilearened.today/views/github/gigantpro/gigantpro.svg"/>
+<img align="right" alt="ViewCount" src="https://img.shields.io/github/followers/GigantPro.svg?style=dark&label=Follow&maxAge=2592000"/>
 
 [![Header](https://github.com/GigantPro/GigantPro/blob/main/resorses/back.jpg)](https://xiver.ru/)
 --
@@ -61,3 +62,7 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/cock_developer)
 
 ---
+
+### Some Stats
+![Status](https://github-readme-stats.vercel.app/api?username=GigantPro&theme=blue-green)
+![Laguages](https://github-readme-stats.vercel.app/api/top-langs/?username=GigantPro&theme=blue-green)
