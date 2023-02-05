@@ -11,7 +11,6 @@
 
 [![Header](https://github.com/GigantPro/GigantPro/blob/main/resorses/back.jpg)](https://xiver.ru/)
 --
-[![codewars](https://www.codewars.com/users/GigantPro2000/badges/large)](https://www.codewars.com/users/GigantPro2000) 
 
 ### Skills
 
@@ -22,6 +21,8 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![SQlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+[![codewars](https://www.codewars.com/users/GigantPro2000/badges/large)](https://www.codewars.com/users/GigantPro2000) 
 
 ---
 
