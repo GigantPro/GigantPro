@@ -31,6 +31,7 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
 
 ---
 
@@ -52,7 +53,7 @@
 ### Hardware
 ![RADEON](https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![RYZEN](https://img.shields.io/badge/AMD-Ryzen_7_3700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![LENOVO G700](https://img.shields.io/badge/Windows-lenovo_g700-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![LENOVO G700](https://img.shields.io/badge/Manjaro-lenovo_g700-0078D6?style=for-the-badge&logo=manjaro&logoColor=white&color=green)
 
 ---
 
