@@ -57,14 +57,6 @@
 
 ---
 
-### Games
-![EpicGames](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
-![CS:GO](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
-![Battle.net](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/cock_developer)
-
----
-
 ### Some Stats
 ![Status](https://github-readme-stats.vercel.app/api?username=GigantPro&theme=blue-green)
 ![Laguages](https://github-readme-stats.vercel.app/api/top-langs/?username=GigantPro&theme=blue-green)
