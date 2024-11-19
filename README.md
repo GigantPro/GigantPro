@@ -1,7 +1,6 @@
 ## Hello, <a href="https://github.com/GigantPro">Alexander Svetlov</a> is here!
 ### My contacts
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/GigantPro)
-[![VK](https://img.shields.io/badge/-VK-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/gigantpro2000)
 [![Discord](https://img.shields.io/badge/-Discord-747EF7?style=flat&logo=Discord&logoColor=white)](https://discord.gg/7ECBEjjUw6)
 [![Telegram](https://img.shields.io/badge/-Telegram-lightblue?style=flat&logo=telegram&logoColor=white)](https://t.me/gigantpro2000)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gigantpro2000@gmail.com)
