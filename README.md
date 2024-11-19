@@ -60,7 +60,7 @@
 ### Hardware
 ![RADEON](https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![RYZEN](https://img.shields.io/badge/AMD-Ryzen_7_3700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![LENOVO G700](https://img.shields.io/badge/Manjaro-lenovo_g700-0078D6?style=for-the-badge&logo=manjaro&logoColor=white&color=green)
+![LENOVO G700](https://img.shields.io/badge/Arch-lenovo_g700-0078D6?style=for-the-badge&logo=archlinux&logoColor=blue&color=black)
 
 ---
 
