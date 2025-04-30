@@ -4,7 +4,6 @@
 [![Discord](https://img.shields.io/badge/-Discord-747EF7?style=flat&logo=Discord&logoColor=white)](https://discord.gg/7ECBEjjUw6)
 [![Telegram](https://img.shields.io/badge/-Telegram-lightblue?style=flat&logo=telegram&logoColor=white)](https://t.me/gigantpro2000)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gigantpro2000@gmail.com)
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=flat&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCehHN9RIi3RLFhuHCdj2x5A)
 <img align="right" alt="ViewCount" src="https://views.whatilearened.today/views/github/gigantpro/gigantpro2.svg"/>
 <img align="right" alt="ViewCount" src="https://img.shields.io/github/followers/GigantPro.svg?style=dark&label=Follow&maxAge=2592000"/>
 
@@ -21,12 +20,9 @@
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![SQlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-66F?style=for-the-badge&logo=mysql&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -40,9 +36,6 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ![Arch](https://img.shields.io/badge/arch%20linux-212529?style=for-the-badge&logo=archlinux&logoColor=blue)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
-![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -53,7 +46,6 @@
 
 ### IDE
 ![VSCode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![VisualStudio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---
 
